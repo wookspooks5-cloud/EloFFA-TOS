@@ -127,11 +127,11 @@ When changes are made, the **Last Updated** date at the top of this page may be 
 
 ## 15. Contact
 
-If you have questions, concerns, or requests regarding these Terms, you can contact the EloFFA developer through:
+If you have questions, concerns, or requests regarding these Terms of Service, you can contact the EloFFA developer through:
 
-**Discord:** [YOUR DISCORD USERNAME OR SUPPORT SERVER]
+**Discord Support Server:** https://discord.gg/eloffa
 
-**Email:** [YOUR CONTACT EMAIL]
+**Discord Username:** z75k
 
 ## 16. Acceptance
 

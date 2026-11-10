@@ -1,0 +1,151 @@
+# EloFFA — Privacy Policy
+
+**Last Updated:** November 10, 2026
+
+This Privacy Policy explains how **EloFFA** ("we", "our", or "the Bot") collects, uses, processes, stores, and protects information when you use our Discord application and its Minecraft Bedrock integration.
+
+EloFFA provides functionality that connects Discord communities with Minecraft Bedrock Edition, including account linking and voice chat.
+
+By using EloFFA, you acknowledge this Privacy Policy.
+
+## 1. Information We Collect
+
+To provide EloFFA's functionality, we may collect or process the following information:
+
+**Discord Information**
+- Discord User IDs.
+- Discord Server IDs.
+- Discord usernames and display names.
+- Discord channel IDs required for voice chat functionality.
+- Information relating to commands and interactions with EloFFA.
+
+**Minecraft Information**
+- Minecraft gamertags.
+- Minecraft player identifiers where required.
+- Information linking Minecraft accounts to Discord accounts.
+
+**Technical Information**
+- Bot configuration information.
+- Connection and service status information.
+- Technical logs necessary for troubleshooting, security, and maintenance.
+
+We only intend to process information that is reasonably necessary to provide EloFFA's functionality.
+
+## 2. How We Use Your Information
+
+Information processed by EloFFA is used for the following purposes:
+
+- Connecting Discord accounts to Minecraft Bedrock accounts.
+- Verifying account-linking requests.
+- Providing Minecraft and Discord voice chat functionality.
+- Connecting users to the appropriate voice chat services.
+- Managing server-specific configurations.
+- Maintaining and improving the reliability of EloFFA.
+- Troubleshooting technical issues and preventing abuse.
+
+We do not intend to use collected information for unrelated purposes.
+
+## 3. Account Linking
+
+EloFFA provides an account-linking feature through the `/link` command.
+
+When you link your Discord account with your Minecraft account, the Bot may process and store the relevant account identifiers to maintain the connection between both accounts.
+
+This information is used to:
+- Identify your linked accounts.
+- Verify linking requests.
+- Provide the requested Minecraft integration.
+- Enable associated voice chat features.
+
+You should only link accounts that you own or are authorized to use.
+
+You can request the removal of your linked account information by contacting us through our support server.
+
+## 4. Voice Chat and Audio Information
+
+EloFFA provides voice chat functionality between supported Discord and Minecraft Bedrock environments.
+
+To provide this functionality, voice audio may be transmitted and processed through the services and infrastructure required to establish communication between users.
+
+Voice chat may involve:
+- Processing audio for real-time communication.
+- Establishing and maintaining voice connections.
+- Managing voice channel and connection information.
+- Transmitting audio between supported platforms.
+
+Voice audio is used to provide the requested communication functionality and is not intended to be used for unrelated purposes.
+
+EloFFA does not intentionally record or permanently store voice conversations.
+
+## 5. Data Storage and Security
+
+Information required to operate EloFFA may be stored on servers or infrastructure used to provide the service.
+
+We take reasonable steps to protect stored information against unauthorized access, alteration, disclosure, or destruction.
+
+However, no online service or storage system can be guaranteed to be completely secure.
+
+Access to stored information is limited to what is reasonably necessary to operate, maintain, and support EloFFA.
+
+## 6. Data Sharing and Third-Party Services
+
+EloFFA may rely on third-party services to operate, including:
+
+- Discord and its API.
+- Minecraft-related services.
+- Hosting and server infrastructure providers.
+- Networking and technical services required for voice communication.
+
+Information may be transmitted to these services when necessary to provide EloFFA's functionality.
+
+We do not sell users' personal information.
+
+We do not intentionally share personal information with unrelated third parties for advertising or marketing purposes.
+
+Third-party services operate under their own privacy policies and terms of service.
+
+## 7. Data Retention
+
+We retain information only for as long as reasonably necessary to provide EloFFA's functionality, maintain account links, meet security requirements, and resolve technical issues.
+
+When information is no longer required, we intend to delete it or securely remove identifying information, unless retention is required by applicable law.
+
+Users may request deletion of their linked account information by contacting us.
+
+## 8. Your Privacy Rights
+
+Depending on your location and applicable privacy laws, you may have the right to:
+
+- Request access to personal information we hold about you.
+- Request correction of inaccurate information.
+- Request deletion of your personal information.
+- Request information about how your data is processed.
+- Object to or request restrictions on certain processing activities.
+
+If you wish to exercise any of these rights, please contact us through our Discord support server.
+
+## 9. Children's Privacy
+
+EloFFA is not designed to knowingly collect personal information from children in circumstances where such collection would be unlawful.
+
+Users must comply with Discord's minimum age requirements and applicable age restrictions in their country.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy when EloFFA receives new features, changes how information is processed, or when updates are necessary to reflect legal or operational requirements.
+
+Any changes will be published on this page, and the Last Updated date will be amended accordingly.
+
+We encourage users to review this policy periodically.
+
+## 11. Contact
+
+If you have questions, concerns, or requests regarding this Privacy Policy or the information processed by EloFFA, you can contact us through:
+
+**Discord Support Server:** https://discord.gg/eloffa
+
+**Discord Username:** z75k
+
+## 12. Acceptance
+
+By using EloFFA, you acknowledge that you have read and understood this Privacy Policy and understand how information may be processed to provide the Bot's functionality.
